@@ -3,3 +3,5 @@ These files were transferred to this repository after processing more than 20,00
 
 The previous files, uploaded before May 15, 2026, have been removed.
 
+The files in the shell casing and stake datasets contain data that have already been processed separately for each channel.
+
