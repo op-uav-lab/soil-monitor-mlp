@@ -1,0 +1,1 @@
+tests with variable items - field test. 
